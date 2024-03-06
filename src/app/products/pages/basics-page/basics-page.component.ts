@@ -9,5 +9,5 @@ export class BasicsPageComponent {
   nameLower: string = 'mariana';
   nameUpper: string = 'MARIANA';
   fullName: string = 'MaRiAnA CaSTAñeDa';
-
+  customDate: Date = new Date();
 }
